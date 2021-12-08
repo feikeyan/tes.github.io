@@ -344,7 +344,7 @@ hdfs dfs -cat/output01/part-r-00000
 HIVE 表    按住 Ctrl +V+A 
 
 
-
+虚拟机ip地址
 192.168.159.66 node01
 
 192.168.159.77 node02
